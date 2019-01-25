@@ -1,0 +1,11 @@
+.Forecast {
+  color: #444;
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+.loading {
+  color: #666;
+  font-size: 16px;
+  text-align: center;
+}
